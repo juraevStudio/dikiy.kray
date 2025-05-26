@@ -1,0 +1,124 @@
+/* TTF */
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestBlack1602-hint.ttf');
+    src: local('Onest Black'), local('Onest-Black'),
+        url('TTF/OnestBlack1602-hint.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestBold1602-hint.ttf');
+    src: local('Onest Bold'), local('Onest-Bold'),
+        url('TTF/OnestBold1602-hint.ttf') format('ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestExtraBold1602-hint.ttf');
+    src: local('Onest Bold'), local('Onest-Bold'),
+        url('TTF/OnestExtraBold1602-hint.ttf') format('ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestMedium1602-hint.ttf');
+    src: local('Onest Medium'), local('Onest-Medium'),
+        url('TTF/TTF/OnestMedium1602-hint.ttf') format('ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestRegular1602-hint.ttf');
+    src: local('Onest Regular'), local('Onest-Regular'),
+        url('TTF/OnestRegular1602-hint.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestLight1602-hint.ttf');
+    src: local('Onest Light'), local('Onest-Light'),
+        url('TTF/OnestLight1602-hint.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('TTF/OnestThin1602-hint.ttf');
+    src: local('Onest Thin'), local('Onest-Thin'),
+        url('TTF/OnestThin1602-hint.ttf') format('ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* WOFF */
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestBlack1602-hint.woff');
+    src: local('Onest Black'), local('Onest-Black'),
+        url('WOFF/OnestBlack1602-hint.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestBold1602-hint.woff');
+    src: local('Onest Bold'), local('Onest-Bold'),
+        url('WOFF/OnestBold1602-hint.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestExtraBold1602-hint.woff');
+    src: local('Onest Bold'), local('Onest-Bold'),
+        url('WOFF/OnestExtraBold1602-hint.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestMedium1602-hint.woff');
+    src: local('Onest Medium'), local('Onest-Medium'),
+        url('WOFF/TTF/OnestMedium1602-hint.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestRegular1602-hint.woff');
+    src: local('Onest Regular'), local('Onest-Regular'),
+        url('WOFF/OnestRegular1602-hint.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestLight1602-hint.woff');
+    src: local('Onest Light'), local('Onest-Light'),
+        url('WOFF/OnestLight1602-hint.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Onest';
+    src: url('WOFF/OnestThin1602-hint.woff');
+    src: local('Onest Thin'), local('Onest-Thin'),
+        url('WOFF/OnestThin1602-hint.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'Onest';
+    src: url('actaywide-bold.otf');
+    src: local('Actay Bold'), local('Actay-Bold'),
+        url('actaywide-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+} */
