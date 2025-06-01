@@ -1308,6 +1308,7 @@ ul, ol {
   color: #9EAB05;
 }
 .footer__right .kontur img {
+  display: none;
   margin-left: 10px;
 }
 
@@ -2462,7 +2463,8 @@ ul, ol {
           transform: translateY(-50%);
 }
 .question_answer__form .input {
-  width: 540px;
+  width: 100%;
+  max-width: 505px;
   height: 100%;
   border: 0;
   background: transparent;
@@ -2472,6 +2474,8 @@ ul, ol {
   line-height: 20px;
 }
 .question_answer__form .btn {
+  text-wrap: nowrap;
+  margin-left: auto;
   padding: 9px 20px 11px 20px;
   border: 1px solid rgba(20, 33, 66, 0.07);
   border-radius: 8px;
@@ -2650,8 +2654,8 @@ ul, ol {
   position: absolute;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -45%);
+          transform: translate(-50%, -45%);
   width: 100%;
   height: auto;
 }
